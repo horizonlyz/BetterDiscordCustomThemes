@@ -1,0 +1,2 @@
+# BetterDiscordCustomThemes
+nothing necessary
