@@ -16,7 +16,7 @@
 @import url("https://gibbu.github.io/BetterDiscord-Themes/addons/windows-titlebar.css");
 
 :root {
-	--app-bg: url("https://github.com/horizonlyz/BetterDiscordCustomThemes/raw/main/wallpaper/Img20_(Windows_7_Pre-RC).jpg");
+	--app-bg: url("https://raw.githubusercontent.com/horizonlyz/BetterDiscordCustomThemes/main/wallpaper/Img20_(Windows_7_Pre-RC).jpg");
 	--app-blur: 6px;
 	--app-margin: 0px;
 	--app-radius: 8px; /*	-	*/
