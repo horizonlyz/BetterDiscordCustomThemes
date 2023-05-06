@@ -12,9 +12,6 @@
 
 @import url(https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css);
 
-/* Old Windows titlebar - remove this @import if you wish to use default titlebar */
-/* @import url("https://gibbu.github.io/BetterDiscord-Themes/addons/windows-titlebar.css");
-
 :root {
 	--app-bg: url("https://raw.githubusercontent.com/horizonlyz/BetterDiscordCustomThemes/main/wallpaper/Img20_(Windows_7_Pre-RC).jpg");
 	--app-blur: 6px;
