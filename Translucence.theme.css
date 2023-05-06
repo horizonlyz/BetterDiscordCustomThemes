@@ -13,13 +13,13 @@
 @import url(https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css);
 
 /* Old Windows titlebar - remove this @import if you wish to use default titlebar */
-@import url("https://gibbu.github.io/BetterDiscord-Themes/addons/windows-titlebar.css");
+// @import url("https://gibbu.github.io/BetterDiscord-Themes/addons/windows-titlebar.css");
 
 :root {
 	--app-bg: url("https://raw.githubusercontent.com/horizonlyz/BetterDiscordCustomThemes/main/wallpaper/Img20_(Windows_7_Pre-RC).jpg");
 	--app-blur: 6px;
-	--app-margin: 0px;
-	--app-radius: 0px; /*	-	*/
+	--app-margin: 24px;
+	--app-radius: 8px; /*	-	*/
 	
 	--accent-hue: 156;
 	--accent-saturation: 77.5%;
