@@ -19,7 +19,7 @@
 	--app-bg: url("https://raw.githubusercontent.com/horizonlyz/BetterDiscordCustomThemes/main/wallpaper/Img20_(Windows_7_Pre-RC).jpg");
 	--app-blur: 6px;
 	--app-margin: 0px;
-	--app-radius: 8px; /*	-	*/
+	--app-radius: 0px; /*	-	*/
 	
 	--accent-hue: 156;
 	--accent-saturation: 77.5%;
